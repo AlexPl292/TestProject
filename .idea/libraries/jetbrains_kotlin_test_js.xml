@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="jetbrains.kotlin.test.js" type="repository">
-    <properties maven-id="org.jetbrains.kotlin:kotlin-test-js:1.6.10" />
+    <properties maven-id="org.jetbrains.kotlin:kotlin-test-js:1.6.20" />
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-test-js/1.6.10/kotlin-test-js-1.6.10.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-js/1.6.10/kotlin-stdlib-js-1.6.10.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.10/kotlin-stdlib-common-1.6.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-test-js/1.6.20/kotlin-test-js-1.6.20.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-js/1.6.20/kotlin-stdlib-js-1.6.20.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.20/kotlin-stdlib-common-1.6.20.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
